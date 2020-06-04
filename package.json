@@ -1,0 +1,23 @@
+{
+  "name": "floop",
+  "version": "1.0.0",
+  "description": "week 12 homework Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcooper89/floop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcooper89/floop/issues"
+  },
+  "homepage": "https://github.com/kcooper89/floop#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
